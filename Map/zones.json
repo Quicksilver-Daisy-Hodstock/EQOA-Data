@@ -1142,6 +1142,7 @@
     { "name": "Overlord Frank (49)"           , "x": 11849, "y":  8360, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Xannasu (49)"                  , "x": 12546, "y":  9026, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
     { "name": "Lantik (49)"                   , "x": 11732, "y":  7843, "category": "quest", "questGuideIds": ["30-40-49/group-6-evil"], "icon": "map-marker", "style": {"color":"#a855f7"} },
-    { "name": "Julaech - Kratas Quest Giver"  , "x":  7880, "y": 12523, "category": "raid-mob", "icon": "Exclamation", "style": {"color":"#f59e0b"} }
+    { "name": "Julaech - Kratas Quest Giver"  , "x":  7880, "y": 12523, "category": "raid-mob", "icon": "Exclamation", "style": {"color":"#f59e0b"} },
+    { "name": "Kizdean Gix - ToL Quest"       , "x": 13656, "y":  2410, "category": "quest", "questGuideIds": ["misc/the-temple-of-light"], "icon": "Exclamation", "style": {"color":"#f59e0b"} }
   ]
 }
